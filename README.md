@@ -23,8 +23,8 @@ I am a dedicated developer transitioning into the AI space. With a background in
 
 ### 📫 Connect with me
 * **Location:** North Carolina, USA
-* **Portfolio:** [Link your website here once live!]
-* **LinkedIn:** [Your LinkedIn Link]
+
+* **LinkedIn:** linkedin.com/in/kenneth-robinson-99088899
 
 ---
 
