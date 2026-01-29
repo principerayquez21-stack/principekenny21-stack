@@ -1,5 +1,4 @@
-# principekenny21-stack
-# Hi there, I'm [Kenneth Robinson] 👋
+# Hi there, I'm Kenneth Robinson 👋
 
 ### 🚀 Aspiring AI Software Engineer | North Carolina Based
 I am a dedicated developer transitioning into the AI space. With a background in public service and a drive fueled by my family, I focus on building efficient, intelligent solutions that solve real-world problems.
